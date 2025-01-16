@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://jschnaubelt.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://jschnaubelt.github.io/sitemap.xml
